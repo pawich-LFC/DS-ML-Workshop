@@ -134,3 +134,6 @@ if uploaded_file is not None:
 else:
     st.info("กรุณาอัปโหลดไฟล์ CSV เพื่อเริ่มทำความสะอาดข้อมูล.")
 
+if st.button("🏠 กลับหน้าหลัก"):
+    st.switch_page("app.py")
+
