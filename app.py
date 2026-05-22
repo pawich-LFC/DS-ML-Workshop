@@ -6,7 +6,7 @@ st.title("🏠 หน้าหลัก ")
 st.write("### Boot Camp: Data Science and Machine Learning")
 st.info("7 Day Intensive Hands-on Workshop")
 st.write("PAWICH LFC")
-st.write("##### Day 1: การจัดการข้อมูลพื้นฐานและโครงสร้างข้อมูลด้วย Python")
+st.markdown(''':rainbow[Pawich Maehji] ''')
 
 if st.button("💰 ระบบคำนวณส่วนลดตามยอดซื้อ"):
     st.switch_page("pages/app1_discount_calc.py")
