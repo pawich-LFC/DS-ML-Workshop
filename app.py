@@ -17,6 +17,6 @@ elif st.button("💰 Customer Data Cleaner"):
 elif st.button("💰 แอปพลิเคชันวิเคราะห์ข้อมูลคลังสินค้าเบื้องต้น"):
     st.switch_page("pages/energy_inventory.py")
 elif st.button("💰 AI Data Cleaning Workshop App"):
-    st.switch_page("streamlit_cleaner_app.py")
+    st.switch_page("pages/streamlit_cleaner_app.py")
 elif st.button("💰 Tranform Workshop App"):
-    st.switch_page("tranform_app.py")
+    st.switch_page("pages/tranform_app.py")
