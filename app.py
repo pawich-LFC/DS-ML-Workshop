@@ -28,3 +28,5 @@ elif st.button("💰 Truck Predict App"):
     st.switch_page("pages/truck_predict.py")
 elif st.button("💰 Classify Redbull App"):
     st.switch_page("pages/classify_redbull_sale.py")
+elif st.button("💰 Clustering Segment App"):
+    st.switch_page("pages/clustering_segment.py")
